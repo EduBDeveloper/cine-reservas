@@ -1,0 +1,12 @@
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\com\edu\reservas\ReservaAsientosApplication.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\config\RedisConfig.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\config\WebConfig.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\controller\ReservaController.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\DataInitializer.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\dto\ReservaRequest.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\entity\Asiento.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\entity\Reserva.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\rateLimiterFilter\RateLimiter.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\repository\AsientoRepository.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\repository\ReservaRepository.java
+C:\Users\eduwi\OneDrive\Desktop\reserva-asientos\src\main\java\service\ReservaService.java
