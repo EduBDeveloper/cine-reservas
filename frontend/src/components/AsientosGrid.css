@@ -1,0 +1,28 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(9, 50px);
+    grid-gap: 10px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.asiento {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+.disponible {
+    background-color: green;
+}
+
+.reservado {
+    background-color: red;
+    cursor: not-allowed;
+}
